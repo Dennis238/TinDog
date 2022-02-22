@@ -1,2 +1,1 @@
-# TinDog
-Copycat
+TinDog Starting Files
